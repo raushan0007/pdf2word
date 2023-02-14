@@ -243,11 +243,11 @@ class App:
             self.output_msg.configure(text="Unexpected error occured! Please try again")
             
     def linked_in(self):
-        url='https://linkedin.com/in/raushan.smile'
+        url='https://linkedin.com/in/raushangupta'
         webbrowser.open_new_tab(url)
 
     def git_hub(self):
-        url='https://github.com/raushangupta'
+        url='https://github.com/raushan007'
         webbrowser.open_new_tab(url)
 
     def portfolio(self):
